@@ -210,7 +210,7 @@ SteamOS has been stuck on 6.1.52-valve16-1 for several releases now so I think t
 	To clone the `testing` branch where new features / updates are being tested before it goes to `main` -
 	```sh
    cd ~/
-   git clone --depth=1 -b testing https://github.com/ryanrudolfoba/steamos-waydroid-installer
+   git clone --depth=1 -b testing https://github.com/Soupa7/SteamOS-Waydroid-Installer.git
    ```
 
 3. Execute the script! \
